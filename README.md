@@ -76,6 +76,15 @@
 
 - Develop cross-selling strategies within profitable sub-categories.
 
+  ## 📊 Dashboard Preview
+
+### Sales Performance Overview
+![Overview](Screenshot 2026-02-16 010831.png)
+
+### Profitability & Margin Analysis
+![Profitability](Screenshot 2026-02-16 010842.png)
+
+
 
 ## 👤 Author
 
