@@ -76,7 +76,7 @@
 
 - Develop cross-selling strategies within profitable sub-categories.
 
-  ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Sales Performance Overview
 ![Overview](Screenshot 2026-02-16 010831.png)
